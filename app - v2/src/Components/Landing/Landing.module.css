@@ -1,0 +1,42 @@
+.img_container{
+   
+    position: absolute;
+    top:20px;
+    right: 0;
+    height:  25%;
+    width: 40%;
+    animation: bg_animation 2s ease-in-out 0s forwards alternate;
+
+}
+
+    
+
+.carMoving{
+    animation: carAnimation 2s ease-in-out 0s forwards alternate;
+    width: 25%;
+    height: 25%;
+    
+
+}
+@keyframes carAnimation {
+    0% {
+        width: 25% ;
+        height: 25%;
+
+    }
+    100%{
+        width: 100%;
+        height: 100%;
+    }
+    
+}
+@keyframes bg_animation {
+    0% {
+        height: 25%;
+
+    }
+    100%{
+        height: 80%;
+    }
+    
+}

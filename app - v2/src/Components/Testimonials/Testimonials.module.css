@@ -1,0 +1,14 @@
+.bg_Tesimonials{
+    background-image: url("../../assets/landing-page/sec-6/bg-sec6.png");
+    background-size: cover;
+    background-color: #F7FBFF;
+;
+    /* background-color: red; */
+    /* width: 500px; */
+    height: 100vh;
+    
+}
+.testimonial_box{
+    background-color: white;
+    /* height: 100%; */
+}

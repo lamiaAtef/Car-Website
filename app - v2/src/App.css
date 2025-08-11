@@ -1,0 +1,18 @@
+.btnClass{
+  
+    color: blue;
+    border: 1px solid #1572d31a;
+    padding: 5px 20px;
+    background-color: #1572d31a;
+}
+.box{
+    box-shadow: 0px 12px 24px 0px #104C8B29;
+
+}
+.bg_img{
+   background-image: url("../src/assets/landing-page/sec-5/Vector.png");
+   background-size: contain  cover;
+   background-repeat: no-repeat;
+   background-position: left center ;
+
+}
